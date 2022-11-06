@@ -19,3 +19,7 @@ button {
   font-size: larger;
   margin-left: 15px;
 }
+span {
+  background-color: orange;
+  padding: 5px 15px;
+}
